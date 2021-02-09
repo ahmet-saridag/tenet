@@ -1,0 +1,22 @@
+{
+  "name": "tenetmecom",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/firebase": "^7.4.1",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.17.3",
+    "core-js": "^3.6.5",
+    "firebase": "^8.2.6",
+    "js-cookie": "^2.2.1",
+    "nuxt": "^2.14.6",
+    "vuelidate": "^0.7.6"
+  }
+}
