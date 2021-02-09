@@ -1,0 +1,2 @@
+# tenet
+Date yazılımı
